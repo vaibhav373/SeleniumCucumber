@@ -1,0 +1,140 @@
+2021-06-23 11:41:35,097 - SeleniumCucumber - INFO - ********Launching Browser**********
+2021-06-23 11:41:35,199 - SeleniumCucumber - INFO - ********Opening URL**********
+2021-06-23 11:41:36,962 - SeleniumCucumber - INFO - ********Provinding login Details**********
+2021-06-23 11:41:37,341 - SeleniumCucumber - INFO - ********Started Loggin**********
+2021-06-23 11:41:54,347 - SeleniumCucumber - INFO - ********Adding New Customer**********
+2021-06-23 11:41:54,347 - SeleniumCucumber - INFO - ********Provinding customer Details**********
+2021-06-23 12:29:55,324 - SeleniumCucumber - INFO - ***********Launching Browser*******************
+2021-06-23 12:29:55,527 - SeleniumCucumber - INFO - ********Launching Browser**********
+2021-06-23 12:29:55,602 - SeleniumCucumber - INFO - ********Opening URL**********
+2021-06-23 12:29:57,363 - SeleniumCucumber - INFO - ********Provinding login Details**********
+2021-06-23 12:29:57,789 - SeleniumCucumber - INFO - ********Started Loggin**********
+2021-06-23 12:30:06,953 - SeleniumCucumber - INFO - On Dashboard
+2021-06-23 12:30:08,955 - SeleniumCucumber - INFO - On CsutomerMenu
+2021-06-23 12:30:11,042 - SeleniumCucumber - INFO - Customer list is open
+2021-06-23 12:30:14,045 - SeleniumCucumber - INFO - Adding New Customer
+2021-06-23 12:30:19,289 - SeleniumCucumber - INFO - On New Customer page
+2021-06-23 12:30:19,298 - SeleniumCucumber - INFO - ********Adding New Customer**********
+2021-06-23 12:30:19,299 - SeleniumCucumber - INFO - ********Provinding customer Details**********
+2021-06-23 12:30:21,156 - SeleniumCucumber - INFO - Clicking on save button
+2021-06-23 12:30:25,645 - SeleniumCucumber - INFO - ***********Launching Browser*******************
+2021-06-23 12:30:25,808 - SeleniumCucumber - INFO - ********Launching Browser**********
+2021-06-23 12:30:25,810 - SeleniumCucumber - INFO - ********Opening URL**********
+2021-06-23 12:30:26,710 - SeleniumCucumber - INFO - ********Provinding login Details**********
+2021-06-23 12:30:27,089 - SeleniumCucumber - INFO - ********Started Loggin**********
+2021-06-23 12:30:35,009 - SeleniumCucumber - INFO - On Dashboard
+2021-06-23 12:30:37,011 - SeleniumCucumber - INFO - On CsutomerMenu
+2021-06-23 12:30:39,099 - SeleniumCucumber - INFO - Customer list is open
+2021-06-23 12:30:40,715 - SeleniumCucumber - INFO - ********Searching a customer using email id**********
+2021-06-23 12:30:41,229 - SeleniumCucumber - INFO - Click on Serach Button
+2021-06-23 12:30:43,469 - SeleniumCucumber - INFO - User Details Available in table
+2021-06-23 12:30:43,470 - SeleniumCucumber - INFO - Closing the Browser
+2021-06-23 12:36:14,627 - SeleniumCucumber - INFO - ***********Launching Browser*******************
+2021-06-23 12:36:14,924 - SeleniumCucumber - INFO - ********Launching Browser**********
+2021-06-23 12:36:14,990 - SeleniumCucumber - INFO - ********Opening URL**********
+2021-06-23 12:36:16,751 - SeleniumCucumber - INFO - ********Provinding login Details**********
+2021-06-23 12:36:16,999 - SeleniumCucumber - INFO - ********Started Loggin**********
+2021-06-23 12:36:24,266 - SeleniumCucumber - INFO - On Dashboard
+2021-06-23 12:36:26,269 - SeleniumCucumber - INFO - On CsutomerMenu
+2021-06-23 12:36:28,526 - SeleniumCucumber - INFO - Customer list is open
+2021-06-23 12:36:31,519 - SeleniumCucumber - INFO - Adding New Customer
+2021-06-23 12:36:32,586 - SeleniumCucumber - INFO - On New Customer page
+2021-06-23 12:36:32,597 - SeleniumCucumber - INFO - ********Adding New Customer**********
+2021-06-23 12:36:32,597 - SeleniumCucumber - INFO - ********Provinding customer Details**********
+2021-06-23 12:36:34,753 - SeleniumCucumber - INFO - Clicking on save button
+2021-06-23 12:36:41,729 - SeleniumCucumber - INFO - ***********Launching Browser*******************
+2021-06-23 12:36:42,007 - SeleniumCucumber - INFO - ********Launching Browser**********
+2021-06-23 12:36:42,009 - SeleniumCucumber - INFO - ********Opening URL**********
+2021-06-23 12:36:43,649 - SeleniumCucumber - INFO - ********Provinding login Details**********
+2021-06-23 12:36:43,857 - SeleniumCucumber - INFO - ********Started Loggin**********
+2021-06-23 12:36:51,184 - SeleniumCucumber - INFO - On Dashboard
+2021-06-23 12:36:53,186 - SeleniumCucumber - INFO - On CsutomerMenu
+2021-06-23 12:36:55,438 - SeleniumCucumber - INFO - Customer list is open
+2021-06-23 12:36:56,351 - SeleniumCucumber - INFO - ********Searching a customer using email id**********
+2021-06-23 12:36:56,591 - SeleniumCucumber - INFO - Click on Serach Button
+2021-06-23 12:36:59,573 - SeleniumCucumber - INFO - User Details Available in table
+2021-06-23 12:36:59,575 - SeleniumCucumber - INFO - Closing the Browser
+2021-06-28 12:48:01,974 - SeleniumCucumber - INFO - ***********Launching Browser*******************
+2021-06-28 12:48:02,136 - SeleniumCucumber - INFO - ********Launching Browser**********
+2021-06-28 12:48:02,235 - SeleniumCucumber - INFO - ********Opening URL**********
+2021-06-28 12:48:06,722 - SeleniumCucumber - INFO - ********Provinding login Details**********
+2021-06-28 12:48:07,124 - SeleniumCucumber - INFO - ********Started Loggin**********
+2021-06-28 12:48:14,957 - SeleniumCucumber - INFO - On Dashboard
+2021-06-28 12:48:16,959 - SeleniumCucumber - INFO - On CsutomerMenu
+2021-06-28 12:48:19,057 - SeleniumCucumber - INFO - Customer list is open
+2021-06-28 12:48:23,528 - SeleniumCucumber - INFO - Adding New Customer
+2021-06-28 12:48:26,148 - SeleniumCucumber - INFO - On New Customer page
+2021-06-28 12:48:26,157 - SeleniumCucumber - INFO - ********Adding New Customer**********
+2021-06-28 12:48:26,157 - SeleniumCucumber - INFO - ********Provinding customer Details**********
+2021-06-28 12:48:28,235 - SeleniumCucumber - INFO - Clicking on save button
+2021-06-28 12:48:32,964 - SeleniumCucumber - INFO - ***********Launching Browser*******************
+2021-06-28 12:48:33,212 - SeleniumCucumber - INFO - ********Launching Browser**********
+2021-06-28 12:48:33,215 - SeleniumCucumber - INFO - ********Opening URL**********
+2021-06-28 12:48:37,274 - SeleniumCucumber - INFO - ********Provinding login Details**********
+2021-06-28 12:48:37,848 - SeleniumCucumber - INFO - ********Started Loggin**********
+2021-06-28 12:48:46,268 - SeleniumCucumber - INFO - On Dashboard
+2021-06-28 12:48:48,269 - SeleniumCucumber - INFO - On CsutomerMenu
+2021-06-28 12:48:50,368 - SeleniumCucumber - INFO - Customer list is open
+2021-06-28 12:48:52,011 - SeleniumCucumber - INFO - ********Searching a customer using email id**********
+2021-06-28 12:48:53,097 - SeleniumCucumber - INFO - Click on Serach Button
+2021-06-28 12:48:55,634 - SeleniumCucumber - INFO - User Details Available in table
+2021-06-28 12:48:55,636 - SeleniumCucumber - INFO - Closing the Browser
+2021-06-28 17:00:13,938 - SeleniumCucumber - INFO - ***********Launching Browser*******************
+2021-06-28 17:00:14,207 - SeleniumCucumber - INFO - ********Launching Browser**********
+2021-06-28 17:00:14,315 - SeleniumCucumber - INFO - ********Opening URL**********
+2021-06-28 17:00:18,411 - SeleniumCucumber - INFO - ********Provinding login Details**********
+2021-06-28 17:00:18,810 - SeleniumCucumber - INFO - ********Started Loggin**********
+2021-06-28 17:00:28,239 - SeleniumCucumber - INFO - On Dashboard
+2021-06-28 17:00:30,248 - SeleniumCucumber - INFO - On CsutomerMenu
+2021-06-28 17:00:32,408 - SeleniumCucumber - INFO - Customer list is open
+2021-06-28 17:00:36,251 - SeleniumCucumber - INFO - Adding New Customer
+2021-06-28 17:00:37,856 - SeleniumCucumber - INFO - On New Customer page
+2021-06-28 17:00:37,942 - SeleniumCucumber - INFO - ********Adding New Customer**********
+2021-06-28 17:00:37,942 - SeleniumCucumber - INFO - ********Provinding customer Details**********
+2021-06-28 17:00:41,888 - SeleniumCucumber - INFO - ***********Launching Browser*******************
+2021-06-28 17:00:42,342 - SeleniumCucumber - INFO - ********Launching Browser**********
+2021-06-28 17:00:42,350 - SeleniumCucumber - INFO - ********Opening URL**********
+2021-06-28 17:00:46,904 - SeleniumCucumber - INFO - ********Provinding login Details**********
+2021-06-28 17:00:47,283 - SeleniumCucumber - INFO - ********Started Loggin**********
+2021-06-28 17:00:57,086 - SeleniumCucumber - INFO - On Dashboard
+2021-06-28 17:00:59,099 - SeleniumCucumber - INFO - On CsutomerMenu
+2021-06-28 17:01:01,457 - SeleniumCucumber - INFO - Customer list is open
+2021-06-28 17:01:04,391 - SeleniumCucumber - INFO - ********Searching a customer using email id**********
+2021-06-28 17:01:05,393 - SeleniumCucumber - INFO - Click on Serach Button
+2021-06-28 17:01:07,704 - SeleniumCucumber - INFO - User Details Available in table
+2021-06-28 17:01:07,712 - SeleniumCucumber - INFO - Closing the Browser
+2021-06-28 17:03:05,683 - SeleniumCucumber - INFO - ***********Launching Browser*******************
+2021-06-28 17:03:05,860 - SeleniumCucumber - INFO - ********Launching Browser**********
+2021-06-28 17:03:05,979 - SeleniumCucumber - INFO - ********Opening URL**********
+2021-06-28 17:03:09,733 - SeleniumCucumber - INFO - ***********Launching Browser*******************
+2021-06-28 17:03:09,883 - SeleniumCucumber - INFO - ********Launching Browser**********
+2021-06-28 17:03:09,891 - SeleniumCucumber - INFO - ********Opening URL**********
+2021-06-28 17:03:30,209 - SeleniumCucumber - INFO - ***********Launching Browser*******************
+2021-06-28 17:03:30,557 - SeleniumCucumber - INFO - ********Launching Browser**********
+2021-06-28 17:03:30,626 - SeleniumCucumber - INFO - ********Opening URL**********
+2021-06-28 17:03:34,730 - SeleniumCucumber - INFO - ********Provinding login Details**********
+2021-06-28 17:03:35,102 - SeleniumCucumber - INFO - ********Started Loggin**********
+2021-06-28 17:03:44,262 - SeleniumCucumber - INFO - On Dashboard
+2021-06-28 17:03:46,272 - SeleniumCucumber - INFO - On CsutomerMenu
+2021-06-28 17:03:48,383 - SeleniumCucumber - INFO - Customer list is open
+2021-06-28 17:03:52,857 - SeleniumCucumber - INFO - Adding New Customer
+2021-06-28 17:03:56,652 - SeleniumCucumber - INFO - On New Customer page
+2021-06-28 17:03:56,666 - SeleniumCucumber - INFO - ********Adding New Customer**********
+2021-06-28 17:03:56,666 - SeleniumCucumber - INFO - ********Provinding customer Details**********
+2021-06-28 17:03:59,287 - SeleniumCucumber - INFO - Clicking on save button
+2021-06-28 17:04:03,368 - SeleniumCucumber - INFO - ***********Launching Browser*******************
+2021-06-28 17:04:03,730 - SeleniumCucumber - INFO - ********Launching Browser**********
+2021-06-28 17:04:03,746 - SeleniumCucumber - INFO - ********Opening URL**********
+2021-06-28 17:04:08,454 - SeleniumCucumber - INFO - ********Provinding login Details**********
+2021-06-28 17:04:09,013 - SeleniumCucumber - INFO - ********Started Loggin**********
+2021-06-28 17:04:17,692 - SeleniumCucumber - INFO - On Dashboard
+2021-06-28 17:04:19,705 - SeleniumCucumber - INFO - On CsutomerMenu
+2021-06-28 17:04:21,924 - SeleniumCucumber - INFO - Customer list is open
+2021-06-28 17:04:25,692 - SeleniumCucumber - INFO - ********Searching a customer using email id**********
+2021-06-28 17:04:26,231 - SeleniumCucumber - INFO - Click on Serach Button
+2021-06-28 17:04:28,838 - SeleniumCucumber - INFO - User Details Available in table
+2021-06-28 17:04:28,838 - SeleniumCucumber - INFO - Closing the Browser
+2021-06-28 17:45:13,091 - SeleniumCucumber - INFO - ***********Launching Browser*******************
+2021-06-28 17:45:13,401 - SeleniumCucumber - INFO - ********Launching Browser**********
+2021-06-28 17:45:13,479 - SeleniumCucumber - INFO - ********Opening URL**********
+2021-06-28 17:45:34,431 - SeleniumCucumber - INFO - ***********Launching Browser*******************
