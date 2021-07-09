@@ -7,9 +7,9 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features = "C://Users//Vaibhav//eclipse-workspace//SeleniumCucumber//Features//Login.feature", 
+		features = "Features//Login.feature", 
 		glue = "stepDefinitions" ,
-		dryRun = true,
+		dryRun = false,
 		monochrome= true,
 		plugin = {"pretty", "html:test-output"}
 		
